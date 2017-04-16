@@ -109,7 +109,7 @@
 <tspan x="10" y="1706">  │ │ │ ├── extsprintf@1.0.2 </tspan>
 <tspan x="10" y="1722">  │ │ │ ├── json-schema@0.2.3 </tspan>
 <tspan x="10" y="1738">  │ │ │ └── verror@1.3.6 </tspan>
-<tspan x="10" y="1754">  │ │ └─┬ sshpk@1.11.0 </tspan>
+<tspan x="10" y="1754">  │ │ └─┬ sshpk@1.13.0 </tspan>
 <tspan x="10" y="1770">  │ │   ├── asn1@0.2.3 </tspan>
 <tspan x="10" y="1786">  │ │   ├── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="1802">  │ │   ├── bcrypt-pbkdf@1.0.1 </tspan>
@@ -214,7 +214,7 @@
 <tspan x="10" y="3386">    │   │ └─┬ strip-bom@2.0.0 </tspan>
 <tspan x="10" y="3402">    │   │   └── is-utf8@0.2.1 </tspan>
 <tspan x="10" y="3418">    │   ├─┬ normalize-package-data@2.3.6 </tspan>
-<tspan x="10" y="3434">    │   │ ├── hosted-git-info@2.4.1 </tspan>
+<tspan x="10" y="3434">    │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="3450">    │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="3466">    │   │ │ └── builtin-modules@1.1.1 </tspan>
 <tspan x="10" y="3482">    │   │ └─┬ validate-npm-package-license@3.0.1 </tspan>
