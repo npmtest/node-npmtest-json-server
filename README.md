@@ -1,7 +1,7 @@
 # test coverage for  [json-server (v0.9.6)](https://github.com/typicode/json-server)  [![npm package](https://img.shields.io/npm/v/npmtest-json-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-server.svg)](https://travis-ci.org/npmtest/node-npmtest-json-server)
 #### Serves JSON files through REST routes.
 
-[![NPM](https://nodei.co/npm/json-server.png?downloads=true)](https://www.npmjs.com/package/json-server)
+[![NPM](https://nodei.co/npm/json-server.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/json-server)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-json-server/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,11 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-json-server/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-json-server/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-json-server/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-json-server/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-json-server/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-json-server/build/coverage.html/index.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-json-server/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-json-server/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-json-server/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-json-server%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-json-server/build/test-report.html)
+[![test-report](https://npmtest.github.io/node-npmtest-json-server/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-json-server/build/test-report.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-json-server/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-json-server%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-json-server/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-json-server/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-json-server/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-json-server/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +27,7 @@
 
 {
     "author": {
-        "name": "Typicode",
-        "email": "typicode@gmail.com"
+        "name": "Typicode"
     },
     "bin": {
         "json-server": "./bin/index.js"
@@ -108,13 +107,11 @@
     "main": "./lib/server/index.js",
     "maintainers": [
         {
-            "name": "typicode",
-            "email": "typicode@gmail.com"
+            "name": "typicode"
         }
     ],
     "name": "json-server",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/typicode/json-server.git"
