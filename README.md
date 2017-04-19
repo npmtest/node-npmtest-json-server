@@ -1,4 +1,7 @@
-# test coverage for  [json-server (v0.9.6)](https://github.com/typicode/json-server)  [![npm package](https://img.shields.io/npm/v/npmtest-json-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-server.svg)](https://travis-ci.org/npmtest/node-npmtest-json-server)
+# npmtest-json-server
+
+#### test coverage for  [json-server (v0.9.6)](https://github.com/typicode/json-server)  [![npm package](https://img.shields.io/npm/v/npmtest-json-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-server.svg)](https://travis-ci.org/npmtest/node-npmtest-json-server)
+
 #### Serves JSON files through REST routes.
 
 [![NPM](https://nodei.co/npm/json-server.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/json-server)
@@ -9,9 +12,15 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-json-server/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-json-server/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-json-server/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-json-server/tree/gh-pages/build)|
 
+- [https://npmtest.github.io/node-npmtest-json-server/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-json-server/build/coverage.html/index.html)
+
 [![istanbul-coverage](https://npmtest.github.io/node-npmtest-json-server/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-json-server/build/coverage.html/index.html)
 
+- [https://npmtest.github.io/node-npmtest-json-server/build/test-report.html](https://npmtest.github.io/node-npmtest-json-server/build/test-report.html)
+
 [![test-report](https://npmtest.github.io/node-npmtest-json-server/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-json-server/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-json-server/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-json-server/build/apidoc.html)
 
 [![apidoc](https://npmdoc.github.io/node-npmdoc-json-server/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-json-server/build/apidoc.html)
 
